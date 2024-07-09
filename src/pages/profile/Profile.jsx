@@ -12,14 +12,14 @@ function Profile() {
       <Topbar />
       <div className="fbIcon">
         <Link  to="/" style={{textDecoration:'none'}}>
-        <img height='60px' src={"../assets/icon.png"} alt="" />
+        <img height='60px' src={"../assets/bhuvi.jpg"} alt="" />
         </Link>
       </div>
       <div className="profileContainer">
         <div className="profileCenter">
           <div className="profileCenterTop">
             <img
-              src={"../assets/coverpic.jpg"}
+              src={"../assets/bhuvi.jpg"}
               alt="coverphoto"
               className="coverPhoto"
             />
@@ -32,13 +32,13 @@ function Profile() {
             <div className="profileCenterDownCont">
               <div className="profilePhotoCont">
                 <img
-                  src={"../assets/person/1.jpeg"}
+                  src={"../assets/bhuvi.jpg"}
                   alt="profiephoto"
                   className="profilePhoto"
                 />
               </div>
               <h4 className="profileUsername">
-                Bhabishya Ghimire{" "}
+                Bhuwnesh Tripathi{" "}
                 <p style={{ fontSize: "16px", margin: "0", opacity: "0.5" }}>
                   209 friends
                 </p>
@@ -54,12 +54,11 @@ function Profile() {
               <pre>
                 {
              `             
-     🎉🎉W€|©°m€❤🎉🎉
+     🎉🎉Welcome bhuwnesh❤🎉🎉
   😊😊
-   ♥[Cricket Lover]♥
+   ♥[Coder Lover]♥
    
-     🆈🆃🅱 🅻🅸🅽🅺:-
-https://www.youtube.com/c/FutureTechnical88
+     
              `
                 }
               </pre>

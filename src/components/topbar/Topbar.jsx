@@ -68,7 +68,7 @@ export default function Topbar() {
           </div>
         </div>
         <Link to="/profile/bhabishya" style={{textDecoration:'none'}}>
-        <img src="/assets/person/1.jpeg" alt="" className="topbarImg"/>
+        <img src="/assets/bhuvi.jpg" alt="" className="topbarImg"/>
         </Link>
       </div>
     </div>

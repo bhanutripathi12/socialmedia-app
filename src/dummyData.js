@@ -2,52 +2,52 @@ export const Users = [
   {
     id:1,
     profilePicture: "../assets/person/1.jpeg",
-    username: "Bhabishya Ghimire",
+    username: "Bhuwnesh Tripathi",
   },
   {
     id:2,
     profilePicture: "../assets/person/2.jpeg",
-    username: "kane willi",
+    username: "Ashish",
   },
   {
     id:3,
     profilePicture: "../assets/person/3.jpeg",
-    username: "Alex Durden",
+    username: "Kaushal",
   },
   {
     id:4,
     profilePicture: "../assets/person/4.jpeg",
-    username: "Dora Hawks",
+    username: "Varsha",
   },
   {
     id:5,
     profilePicture: "../assets/person/5.jpeg",
-    username: "Thomas Holden",
+    username: "Dishhuu",
   },
   {
     id:6,
     profilePicture: "../assets/person/6.jpeg",
-    username: "Shirley Beauchamp",
+    username: "Richa",
   },
   {
     id:7,
     profilePicture: "../assets/person/7.jpeg",
-    username: "Travis Bennett",
+    username: "Kailash",
   },
   {
     id:8,
     profilePicture: "../assets/person/8.jpeg",
-    username: "Kristen Thomas",
+    username: "Bhuwnesh",
   },
   {
     id:9,
     profilePicture: "../assets/person/9.jpeg",
-    username: "Gary Duty",
+    username: "Gaurav",
   },
   {
     id:10,
     profilePicture: "../assets/person/10.jpeg",
-    username: "Safak Kocaoglu",
+    username: "Bhanu",
   },
 ];
 
@@ -55,7 +55,7 @@ export const Posts = [
   {
     id: 1,
     desc: "Travelling through train.",
-    photo: "../assets/post/1.jpeg",
+    photo: "../assets/post/bhuv.jpg",
     date: "5 mins ago",
     userId: 8,
     like: 32,
@@ -63,7 +63,7 @@ export const Posts = [
   },
   {
     id: 2,
-    photo: "../assets/post/2.png",
+    photo: "../assets/post/gehu.jpg",
     date: "15 mins ago",
     userId: 2,
     like: 2,

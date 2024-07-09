@@ -7,9 +7,9 @@ export default function Login() {
     <div className="login">
       <div className="loginWrapper">
         <div className="loginLeft">
-          <h3 className="loginLogo">fchatSocial</h3>
+          <h3 className="loginLogo">Social Media</h3>
           <div className="loginLeftDesc">
-            Connect with friends and the world <br /> around you on Fchatsocial.
+           Welcome Bhuwnesh !!! Connect with friends and the world <br /> around you on socialmedia.
           </div>
         </div>
         <div className="loginRight">

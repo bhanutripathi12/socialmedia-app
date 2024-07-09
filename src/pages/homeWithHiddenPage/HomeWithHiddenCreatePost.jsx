@@ -36,18 +36,18 @@ export default function CreatePost() {
         <div className="createPostProfileCont">
           <img
             className="createPostProfileImage"
-            src="assets/person/1.jpeg"
+            src="assets/bhuvi.jpg"
             alt=""
           />
           <span className="createPostUsername">
-            <b>Bhabishya Ghimire</b>
+            <b>Bhuwnesh Tripathi</b>
           </span>
         </div>
         <div className="createPostInputCont">
           <input
             ref={ref}
             type="text"
-            placeholder="What's on your mind,Bhabishya?"
+            placeholder="What's on your mind,Bhuwnesh?"
             className="createPostInput"
           />
         </div>
